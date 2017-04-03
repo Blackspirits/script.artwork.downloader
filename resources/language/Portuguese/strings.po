@@ -18,11 +18,11 @@ msgstr ""
 
 msgctxt "#32001"
 msgid "Please help get more artwork or donate on:"
-msgstr "Ajude-nos a obter mais artwork ou faça uma doação em:"
+msgstr "Ajuda-nos a obter mais artwork ou faz uma doação em:"
 
 msgctxt "#32002"
 msgid "Scheduled run at time: (24h)"
-msgstr "Execução temporizada às: (24h)"
+msgstr "Programado para executar às: (24h)"
 
 msgctxt "#32003"
 msgid "Faulty/empty settings combination found!"
@@ -30,11 +30,11 @@ msgstr "Foram encontradas definições com erros ou vazias!"
 
 msgctxt "#32004"
 msgid "Select your preferences and press OK to save"
-msgstr "Seleccione as suas preferências e pressione OK para guardar"
+msgstr "Seleciona as tuas preferências e pressiona OK para guardar"
 
 msgctxt "#32005"
 msgid "Cleaning up"
-msgstr "Limpando"
+msgstr "A Limpar"
 
 msgctxt "#32006"
 msgid "Error"
@@ -42,19 +42,19 @@ msgstr "Erro"
 
 msgctxt "#32007"
 msgid "Error downloading file"
-msgstr "Erro ao transferir ficheiro"
+msgstr "Erro ao Transferir Ficheiro"
 
 msgctxt "#32008"
 msgid "Searching for artwork"
-msgstr "Procurando artwork"
+msgstr A Procurar Artwork"
 
 msgctxt "#32009"
 msgid "Downloading"
-msgstr "Transferindo"
+msgstr "A Transferir"
 
 msgctxt "#32010"
 msgid "Add-on aborted"
-msgstr "Add-on cancelado"
+msgstr "Add-on Cancelado"
 
 msgctxt "#32011"
 msgid "Network error detected"
@@ -66,7 +66,7 @@ msgstr "Concluído"
 
 msgctxt "#32013"
 msgid "Enable downloading"
-msgstr "Activar transferências"
+msgstr "Ativar Transferências"
 
 msgctxt "#32014"
 msgid "Total Artwork"
@@ -86,7 +86,7 @@ msgstr "Cancelado"
 
 msgctxt "#32018"
 msgid "Download canceled by user"
-msgstr "A transferência foi cancelada pelo utilizador"
+msgstr "A Transferência foi cancelada pelo utilizador"
 
 msgctxt "#32019"
 msgid "Delayed start in minutes:"
@@ -98,7 +98,7 @@ msgstr "Transferidos"
 
 msgctxt "#32021"
 msgid "Processing Artwork"
-msgstr "Processando Artwork"
+msgstr "A Processar Artwork"
 
 msgctxt "#32022"
 msgid "not found!"
@@ -130,7 +130,7 @@ msgstr "Relatório"
 
 msgctxt "#32029"
 msgid "[I](After changes are made you must restart XBMC) [/I]"
-msgstr "[I](Tem de reiniciar o XBMC após as alterações serem concluídas) [/I]"
+msgstr "[I](Tem de reiniciar o KODI após as alterações serem concluídas) [/I]"
 
 msgctxt "#32030"
 msgid "No provider ID found for looking up artwork"
@@ -154,7 +154,7 @@ msgstr "Mostrar janela de aviso em concluído/erros"
 
 msgctxt "#32035"
 msgid "Overwrite all existing artwork [I](will be automaticly disabled after downloading) [/I]"
-msgstr "Substituir toda a artwork existente [I](será automaticamente desactivado após transferência) [/I]"
+msgstr "Substituir toda a artwork existente [I](será automaticamente desativado após transferência) [/I]"
 
 msgctxt "#32036"
 msgid "Centralize extrafanart [I](Can be used for extrafanart slideshow) [/I]"
@@ -162,15 +162,15 @@ msgstr "Centralizar extrafanart [I](Pode ser usado para slides de extrafanart) [
 
 msgctxt "#32037"
 msgid "Central TV extrafanart directory"
-msgstr "Pasta central de extrafanart TV"
+msgstr "Pasta principal de extrafanart Séries de TV"
 
 msgctxt "#32038"
 msgid "Central Movie extrafanart directory"
-msgstr "Pasta central de extrafanart Filmes"
+msgstr "Pasta principal de extrafanart Filmes"
 
 msgctxt "#32039"
 msgid "View download report from latest download run"
-msgstr "Exibir relatório de transferência série de transferências"
+msgstr "Exibir relatório da última transferência"
 
 msgctxt "#32040"
 msgid "-"
@@ -190,11 +190,11 @@ msgstr "Máximo de extrafanart"
 
 msgctxt "#32054"
 msgid "Minimum rating"
-msgstr "Avaliação mínima"
+msgstr "Avaliação Mínima"
 
 msgctxt "#32055"
 msgid "Preferred language:"
-msgstr "Idioma preferido:"
+msgstr "Idioma Preferido:"
 
 msgctxt "#32056"
 msgid "Exclude fanart that has text"
@@ -206,7 +206,7 @@ msgstr "Tamanho mínimo de fanart: Filmes"
 
 msgctxt "#32058"
 msgid "Minimum fanart size: TV Shows"
-msgstr "Tamanho mínimo de fanart: Séries TV"
+msgstr "Tamanho mínimo de fanart: Séries de TV"
 
 msgctxt "#32062"
 msgid "Minimum fanart size: Musicvideos"
@@ -226,7 +226,7 @@ msgstr "Séries TV"
 
 msgctxt "#32082"
 msgid "[B]Options for downloading TV Show artwork[/B]"
-msgstr "[B]Opções para transferir artwork de Séries TV[/B]"
+msgstr "[B]Opções para transferir artwork de Séries de TV[/B]"
 
 msgctxt "#32083"
 msgid "-"
@@ -254,7 +254,7 @@ msgstr "Usar ficheiros locais"
 
 msgctxt "#32106"
 msgid "Use XBMC pre-caching [I](caches images to thumbnails folder while downloading) [/I]"
-msgstr "Usar pré-cache do XBMC [I](coloca as imagens em cache na pasta das miniaturas, durante a transferência) [/I]"
+msgstr "Usar pré-cache do KODI [I](coloca as imagens em cache na pasta das miniaturas, durante a transferência) [/I]"
 
 msgctxt "#32121"
 msgid "Fanart"
@@ -266,11 +266,11 @@ msgstr "Extrafanart"
 
 msgctxt "#32123"
 msgid "Banner"
-msgstr "Faixas"
+msgstr "Banner"
 
 msgctxt "#32124"
 msgid "Season Banners"
-msgstr "Faixas de Temporadas"
+msgstr "Banners da Temporada"
 
 msgctxt "#32125"
 msgid "ClearArt"
@@ -286,11 +286,11 @@ msgstr "Character Art"
 
 msgctxt "#32128"
 msgid "Poster"
-msgstr "Póster"
+msgstr "Cartaz"
 
 msgctxt "#32129"
 msgid "Season Posters"
-msgstr "Posters de Temporadas"
+msgstr "Cartazes da Temporada"
 
 msgctxt "#32130"
 msgid "Thumb 16:9"
@@ -314,7 +314,7 @@ msgstr "Miniaturas de Temporadas 16:9"
 
 msgctxt "#32141"
 msgid "Language"
-msgstr "Lingua"
+msgstr "Língua"
 
 msgctxt "#32142"
 msgid "Rating"
@@ -350,7 +350,7 @@ msgstr "Não foram encontrados itens falhados ou em falta"
 
 msgctxt "#32150"
 msgid "add-on aborted because of XBMC shutting down"
-msgstr "o add-on foi encerrado devido ao encerramento do XBMC"
+msgstr "o add-on foi encerrado devido ao encerramento do KODI"
 
 msgctxt "#32151"
 msgid "add-on cancelled while searching for"
@@ -370,11 +370,11 @@ msgstr "Info"
 
 msgctxt "#32182"
 msgid "Please donate or contribute to the following sites to show your support:"
-msgstr "Por favor, apoie-nos fazendo uma doação ou contribuindo para estes sites:"
+msgstr "Por favor, apoia-nos fazendo uma doação ou contribuindo para estes sites:"
 
 msgctxt "#32183"
 msgid "[I]www.xbmc.org [/I]"
-msgstr "[I]www.xbmc.org [/I]"
+msgstr "[I]https://kodi.tv/ [/I]"
 
 msgctxt "#32184"
 msgid "[I]fanart.tv [/I]"
@@ -402,7 +402,7 @@ msgstr "Agradecimentos a:"
 
 msgctxt "#32190"
 msgid "Team XBMC and the authors of the other addons on which this was based."
-msgstr "Equipa do XBMC e autores dos add-ons nos quais este foi baseado."
+msgstr "Equipa do KODI e autores dos add-ons nos quais este foi baseado."
 
 msgctxt "#32191"
 msgid "[I]For bugs, requests or general questions visit the [/I]"
@@ -410,4 +410,4 @@ msgstr "[I]Para bugs, pedidos ou dúvidas genéricas, visite [/I]"
 
 msgctxt "#32192"
 msgid "[I]  Artwork Downloader thread on the XBMC forum. [/I]"
-msgstr "[I]  o tópico 'Artwork Downloader' no fórum do XBMC. [/I]"
+msgstr "[I]  o tópico 'Artwork Downloader' no fórum do KODI. [/I]"
